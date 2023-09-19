@@ -1,0 +1,24 @@
+body { /* Base body */
+    color: #acc6c4;
+    background-color: #9F8C76;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 { /* Base Heading color, font-family and size */
+    color: rgb(87, 24, 69);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+.specific { /* Specific title color, font-family and size */
+    color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+#titles { /* Text-title color, size, font-family and weight */
+    color: rgb(248, 225, 108);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
